@@ -3,9 +3,12 @@ This is a server selector for Hack The box with the protocole UDP 1337 with open
 
 
 ----------------How to use it----------------
+git clone https://github.com/Ianuras/htb-server-selector.git
 cd htb-server-selector
 cd htb-servers
 bash htb.sh
 
 ----------------Requierements----------------
 OpenVPN
+
+
